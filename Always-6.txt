@@ -1,0 +1,3 @@
+Pronto - Build # 6 - Successful:
+
+Check console output at http://localhost:8080/job/Pronto/6/ to view the results.
